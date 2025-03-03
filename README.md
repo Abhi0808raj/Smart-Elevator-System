@@ -1,7 +1,7 @@
 ### Automatic Door Opener using Arduino & SG90 Servo
 
 This project demonstrates an automatic door opener using an Arduino Uno, IR sensor, and SG90 servo motor. The IR sensor detects an approaching object/person, triggering the servo to rotate 90° (open the door). After 5 seconds, the door automatically closes (0° position).
-Components Used:
+### Components Used:
 
     Arduino Uno
     SG90 Servo Motor
@@ -9,7 +9,7 @@ Components Used:
     Battery (optional for independent power)
     Wires
 
-How It Works:
+### How It Works:
 
     The IR sensor detects an object and signals the Arduino.
     The SG90 servo motor moves to 90° (door open position).
