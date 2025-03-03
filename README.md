@@ -31,5 +31,8 @@ Features:
 ✅ No relay or motor driver required (uses SG90 directly)
 ✅ Compact and efficient for small-scale automation
 ✅ Adjustable delay for door closing timing
+
+
 Image:
+
 ![alt](https://github.com/Abhi0808raj/Smart-Elevator-System/blob/main/Images/PXL_20240906_1851243652.gif)
